@@ -10,3 +10,5 @@ The application has been created according to this tutorial with few tweaks - ht
 **Features**
 In this example application you can add or remove contacts. Navigate between homepage ( which is contact list ) and add page ( to add new contact )
 
+Application is live here
+https://zurivy-myval.github.io/react-simple-contact-manager
